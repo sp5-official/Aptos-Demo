@@ -68,4 +68,6 @@ Our vision is to revolutionize digital identity and social recognition in the We
 
 ---
 
+![Alt text](https://github.com/sp5-official/Aptos-Demo/blob/main/Screenshot%202025-08-14%20142113.png)
+
 *For support and contributions, please refer to our community channels and development guidelines.*
