@@ -1,0 +1,15 @@
+[package]
+name = "NFT-Profile"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule='0x510293154884aa4a72d276d5b340cb2a7af5699befcd0347382bc869dc33f43d'
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
