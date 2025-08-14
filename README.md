@@ -41,13 +41,15 @@ Our vision is to revolutionize digital identity and social recognition in the We
 
 ## Contract Details
 
-**Contract Address**: `0x[CONTRACT_ADDRESS_TO_BE_DEPLOYED]`
+**Contract Address**: `0x2b45ebbf941575aa63a815850e62da8659ea03cb1aa9ca14e8642f3f2894052d`
 
 **Module Name**: `MyModule::NFTProfileBadges`
 
 **Network**: Aptos Mainnet
 
 **Compiler Version**: Move
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b073e3f3-c997-4540-bbfe-ab977e5a1a34" />
+
 
 ### Key Functions
 
